@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pickle5
+sqlite3
+bcrypt
+google-generativeai
+catboost
+xgboost
+scikit-learn
