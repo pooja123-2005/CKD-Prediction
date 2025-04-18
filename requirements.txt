@@ -1,10 +1,8 @@
 streamlit
 pandas
 numpy
-pickle5
-sqlite3
 bcrypt
 google-generativeai
-catboost
+catboost==1.2.7
 xgboost
 scikit-learn
